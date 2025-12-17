@@ -3,44 +3,136 @@
   "description": "适用于Cloud的应用图标库",
   "icons": [
     {
-      "name": "acck",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png"
+      "name": "Online",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Online.png"
+    },
+    {
+      "name": "WePC",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WePC.png"
+    },
+    {
+      "name": "GoogleCloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/GoogleCloud.png"
     },
     {
       "name": "akile",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/akile.png"
     },
     {
-      "name": "alice",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png"
+      "name": "Tencent_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_B.png"
     },
     {
-      "name": "Aliyun",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Aliyun.png"
+      "name": "netcup",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/netcup.png"
     },
     {
-      "name": "Alphavps",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Alphavps.png"
+      "name": "OVH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/OVH.png"
     },
     {
-      "name": "Bandwagon",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Bandwagon.png"
-    },
-    {
-      "name": "BuyVM",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/BuyVM.png"
-    },
-    {
-      "name": "ByteVirt",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ByteVirt.png"
+      "name": "Hosthatch",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Hosthatch.png"
     },
     {
       "name": "Claw",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Claw.png"
     },
     {
+      "name": "Host-C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Host-C.png"
+    },
+    {
+      "name": "acck",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png"
+    },
+    {
+      "name": "BuyVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/BuyVM.png"
+    },
+    {
+      "name": "YXVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YXVM.png"
+    },
+    {
+      "name": "V-PS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/V-PS.png"
+    },
+    {
+      "name": "RackNerd",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/RackNerd.png"
+    },
+    {
+      "name": "Spartan",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Spartan.png"
+    },
+    {
+      "name": "nomao",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/nomao.png"
+    },
+    {
       "name": "CloudCone",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/CloudCone.png"
+    },
+    {
+      "name": "herzner",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/herzner.png"
+    },
+    {
+      "name": "ggy",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ggy.png"
+    },
+    {
+      "name": "Greencloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Greencloud.png"
+    },
+    {
+      "name": "DMIT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/DMIT.png"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Oracle.png"
+    },
+    {
+      "name": "serv00",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/serv00.png"
+    },
+    {
+      "name": "YeCaoyun",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YeCaoyun.png"
+    },
+    {
+      "name": "Layer",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Layer.png"
+    },
+    {
+      "name": "Huawei",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Huawei.png"
+    },
+    {
+      "name": "Wawo",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Wawo.png"
+    },
+    {
+      "name": "ByteVirt",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ByteVirt.png"
+    },
+    {
+      "name": "Tencent_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_A.png"
+    },
+    {
+      "name": "WAP",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WAP.png"
+    },
+    {
+      "name": "szhdy",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/szhdy.png"
+    },
+    {
+      "name": "Locvps",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Locvps.png"
     },
     {
       "name": "CloudFlare",
@@ -51,144 +143,52 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/coalcloud.png"
     },
     {
-      "name": "ColoCrosSing",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ColoCrosSing.png"
+      "name": "alice",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png"
     },
     {
       "name": "Crunchbits",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Crunchbits.png"
     },
     {
-      "name": "DMIT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/DMIT.png"
+      "name": "ColoCrosSing",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ColoCrosSing.png"
     },
     {
-      "name": "ggy",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ggy.png"
-    },
-    {
-      "name": "GoogleCloud",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/GoogleCloud.png"
-    },
-    {
-      "name": "Greencloud",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Greencloud.png"
-    },
-    {
-      "name": "Henghost",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Henghost.png"
-    },
-    {
-      "name": "herzner",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/herzner.png"
-    },
-    {
-      "name": "Host-C",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Host-C.png"
-    },
-    {
-      "name": "Hosthatch",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Hosthatch.png"
-    },
-    {
-      "name": "Huawei",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Huawei.png"
-    },
-    {
-      "name": "ISIF",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ISIF.png"
-    },
-    {
-      "name": "Kurun",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Kurun.png"
-    },
-    {
-      "name": "Layer",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Layer.png"
-    },
-    {
-      "name": "Locvps",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Locvps.png"
-    },
-    {
-      "name": "netcup",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/netcup.png"
-    },
-    {
-      "name": "nomao",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/nomao.png"
-    },
-    {
-      "name": "Online",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Online.png"
-    },
-    {
-      "name": "Oracle",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Oracle.png"
-    },
-    {
-      "name": "OVH",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/OVH.png"
-    },
-    {
-      "name": "RackNerd",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/RackNerd.png"
-    },
-    {
-      "name": "Saltyfish",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Saltyfish.png"
-    },
-    {
-      "name": "serv00",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/serv00.png"
-    },
-    {
-      "name": "SMbox",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/SMbox.png"
-    },
-    {
-      "name": "Spartan",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Spartan.png"
-    },
-    {
-      "name": "szhdy",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/szhdy.png"
-    },
-    {
-      "name": "Tencent_A",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_A.png"
-    },
-    {
-      "name": "Tencent_B",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_B.png"
-    },
-    {
-      "name": "V-PS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/V-PS.png"
+      "name": "Alphavps",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Alphavps.png"
     },
     {
       "name": "vkvm",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/vkvm.png"
     },
     {
-      "name": "WAP",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WAP.png"
+      "name": "ISIF",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ISIF.png"
     },
     {
-      "name": "Wawo",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Wawo.png"
+      "name": "Henghost",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Henghost.png"
     },
     {
-      "name": "WePC",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WePC.png"
+      "name": "Aliyun",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Aliyun.png"
     },
     {
-      "name": "YeCaoyun",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YeCaoyun.png"
+      "name": "SMbox",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/SMbox.png"
     },
     {
-      "name": "YXVM",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YXVM.png"
+      "name": "Kurun",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Kurun.png"
+    },
+    {
+      "name": "Bandwagon",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Bandwagon.png"
+    },
+    {
+      "name": "Saltyfish",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Saltyfish.png"
     }
   ]
 }

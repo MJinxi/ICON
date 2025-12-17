@@ -3,268 +3,348 @@
   "description": "适用于Mihomo的应用图标库",
   "icons": [
     {
-      "name": "ACA",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ACA.png"
-    },
-    {
-      "name": "Aladdin",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Aladdin.png"
-    },
-    {
-      "name": "AMY",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/AMY.png"
-    },
-    {
-      "name": "Apple",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Apple.png"
-    },
-    {
-      "name": "Apple_News",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Apple_News.png"
-    },
-    {
-      "name": "AppStore",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/AppStore.png"
-    },
-    {
-      "name": "ARK",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ARK.png"
-    },
-    {
-      "name": "ASH",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/ASH.PNG"
-    },
-    {
-      "name": "ASH",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ASH.PNG"
-    },
-    {
-      "name": "BaiYueGuang",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BaiYueGuang.png"
-    },
-    {
-      "name": "BaJie",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BaJie.png"
-    },
-    {
-      "name": "BigBus",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BigBus.png"
-    },
-    {
-      "name": "Bitcloud",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Bitcloud.png"
-    },
-    {
-      "name": "Bitz",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Bitz.png"
-    },
-    {
-      "name": "Bocchi",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Bocchi.png"
-    },
-    {
-      "name": "Catnet",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Catnet.png"
-    },
-    {
-      "name": "ChatGPT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/ChatGPT.png"
-    },
-    {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/China.png"
-    },
-    {
-      "name": "China 2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/China 2.png"
-    },
-    {
-      "name": "CiYuan",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CiYuan.png"
-    },
-    {
-      "name": "Clash",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Clash.png"
-    },
-    {
-      "name": "ClashMeta",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ClashMeta.png"
-    },
-    {
-      "name": "Clubhouse",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Clubhouse.png"
-    },
-    {
-      "name": "CNIX",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CNIX.png"
-    },
-    {
-      "name": "Coffee",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Coffee.png"
-    },
-    {
-      "name": "Coo",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Coo.png"
-    },
-    {
-      "name": "CreamData",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CreamData.png"
-    },
-    {
-      "name": "CTC",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/CTC.png"
-    },
-    {
-      "name": "CTC",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CTC.png"
-    },
-    {
-      "name": "CTC_Classic",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/CTC_Classic.png"
-    },
-    {
-      "name": "DanTa",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/DanTa.png"
-    },
-    {
-      "name": "disney",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/disney.png"
-    },
-    {
-      "name": "Dler",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Dler.png"
-    },
-    {
-      "name": "Dog",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Dog.png"
-    },
-    {
-      "name": "Emby",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Emby.png"
-    },
-    {
-      "name": "ESNC",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ESNC.png"
-    },
-    {
-      "name": "European_Union",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/European_Union.png"
-    },
-    {
-      "name": "Facebook",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Facebook.png"
-    },
-    {
-      "name": "Facmata",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Facmata.png"
-    },
-    {
-      "name": "Film",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Film.png"
-    },
-    {
-      "name": "Final",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Final.png"
-    },
-    {
-      "name": "Flower",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Flower.png"
-    },
-    {
-      "name": "Flower",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Flower.png"
-    },
-    {
-      "name": "FlyingBird",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/FlyingBird.png"
-    },
-    {
-      "name": "Github",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Github.png"
-    },
-    {
-      "name": "Global",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Global.png"
-    },
-    {
-      "name": "Godetia",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Godetia.png"
-    },
-    {
-      "name": "Google_Search",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Google_Search.png"
-    },
-    {
-      "name": "HBO",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/HBO.png"
-    },
-    {
-      "name": "Hong_Kong",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Hong_Kong.png"
-    },
-    {
-      "name": "Imm",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Imm.png"
-    },
-    {
-      "name": "IMM",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/IMM.png"
-    },
-    {
-      "name": "Imm_Classic",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Imm_Classic.png"
-    },
-    {
-      "name": "ip",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/ip.png"
-    },
-    {
-      "name": "Japan",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Japan.png"
-    },
-    {
-      "name": "JAS.AI",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/JAS.AI.png"
-    },
-    {
-      "name": "JiJi",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/JiJi.png"
-    },
-    {
-      "name": "Joplin",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Joplin.png"
-    },
-    {
-      "name": "Korea",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Korea.png"
-    },
-    {
       "name": "Kuromis",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Kuromis.png"
-    },
-    {
-      "name": "Kuromis",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Kuromis.png"
     },
     {
       "name": "Kuromis_Classic",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Kuromis_Classic.png"
     },
     {
+      "name": "ASH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/ASH.PNG"
+    },
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Nexitally.png"
+    },
+    {
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Flower.png"
+    },
+    {
+      "name": "CTC_Classic",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/CTC_Classic.png"
+    },
+    {
+      "name": "Imm",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Imm.png"
+    },
+    {
+      "name": "Nexitally_Classic",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Nexitally_Classic.png"
+    },
+    {
+      "name": "YTOO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/YTOO.png"
+    },
+    {
+      "name": "CTC",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/CTC.png"
+    },
+    {
+      "name": "Imm_Classic",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Imm_Classic.png"
+    },
+    {
+      "name": "MESL_Classic",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/MESL_Classic.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/MESL.png"
+    },
+    {
+      "name": "ESNC",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ESNC.png"
+    },
+    {
+      "name": "Kuromis",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Kuromis.png"
+    },
+    {
+      "name": "PaoFu",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/PaoFu.png"
+    },
+    {
+      "name": "JiJi",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/JiJi.png"
+    },
+    {
+      "name": "V2Tun",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/V2Tun.png"
+    },
+    {
+      "name": "RenZhe",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/RenZhe.png"
+    },
+    {
+      "name": "ASH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ASH.PNG"
+    },
+    {
+      "name": "tvOS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/tvOS.png"
+    },
+    {
+      "name": "DanTa",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/DanTa.png"
+    },
+    {
+      "name": "SeSe",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SeSe.png"
+    },
+    {
+      "name": "Texon-KL",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Texon-KL.png"
+    },
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Nexitally.png"
+    },
+    {
+      "name": "TAG",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TAG.png"
+    },
+    {
+      "name": "WestData",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/WestData.png"
+    },
+    {
+      "name": "CiYuan",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CiYuan.png"
+    },
+    {
+      "name": "Godetia",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Godetia.png"
+    },
+    {
+      "name": "ARK",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ARK.png"
+    },
+    {
+      "name": "JAS.AI",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/JAS.AI.png"
+    },
+    {
+      "name": "CreamData",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CreamData.png"
+    },
+    {
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Flower.png"
+    },
+    {
+      "name": "AMY",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/AMY.png"
+    },
+    {
+      "name": "S",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/S.png"
+    },
+    {
       "name": "Lend",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Lend.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Smart.png"
+    },
+    {
+      "name": "Nerwo",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Nerwo.png"
+    },
+    {
+      "name": "V2Ray",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/V2Ray.png"
+    },
+    {
+      "name": "TKV",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TKV.png"
+    },
+    {
+      "name": "Surfboard",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Surfboard.png"
+    },
+    {
+      "name": "Coffee",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Coffee.png"
+    },
+    {
+      "name": "Catnet",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Catnet.png"
+    },
+    {
+      "name": "Bocchi",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Bocchi.png"
+    },
+    {
+      "name": "SWIFT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SWIFT.png"
+    },
+    {
+      "name": "SYN",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SYN.png"
+    },
+    {
+      "name": "Clash",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Clash.png"
+    },
+    {
+      "name": "Recmata",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Recmata.png"
+    },
+    {
+      "name": "UCSS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/UCSS.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Shadowrocket.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Loon.png"
+    },
+    {
+      "name": "Dler",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Dler.png"
+    },
+    {
+      "name": "BaJie",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BaJie.png"
+    },
+    {
+      "name": "Coo",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Coo.png"
+    },
+    {
+      "name": "Texon-EY",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Texon-EY.png"
+    },
+    {
+      "name": "NieR",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/NieR.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Surge.png"
+    },
+    {
+      "name": "ClashMeta",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ClashMeta.png"
+    },
+    {
+      "name": "OUO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/OUO.png"
+    },
+    {
+      "name": "Titan",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Titan.png"
+    },
+    {
+      "name": "ShouHou",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ShouHou.png"
+    },
+    {
+      "name": "TKV_X",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TKV_X.png"
+    },
+    {
+      "name": "ACA",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ACA.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Windows.png"
+    },
+    {
+      "name": "YTOO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/YTOO.png"
+    },
+    {
+      "name": "BigBus",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BigBus.png"
+    },
+    {
+      "name": "SiFangCai",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SiFangCai.png"
+    },
+    {
+      "name": "CTC",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CTC.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Stash.png"
+    },
+    {
+      "name": "FlyingBird",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/FlyingBird.png"
+    },
+    {
+      "name": "CNIX",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/CNIX.png"
+    },
+    {
+      "name": "XLM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/XLM.png"
+    },
+    {
+      "name": "XianYu",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/XianYu.png"
+    },
+    {
+      "name": "SuanNai",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SuanNai.png"
+    },
+    {
+      "name": "Aladdin",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Aladdin.png"
+    },
+    {
+      "name": "Uni",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Uni.png"
+    },
+    {
+      "name": "Film",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Film.png"
+    },
+    {
+      "name": "BaiYueGuang",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/BaiYueGuang.png"
+    },
+    {
+      "name": "QuantumultX",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/QuantumultX.png"
     },
     {
       "name": "Linkeless",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Linkeless.png"
     },
     {
-      "name": "Linkpng",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Linkpng.png"
+      "name": "Tsunami",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Tsunami.png"
     },
     {
-      "name": "Loon",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Loon.png"
+      "name": "Dog",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Dog.png"
+    },
+    {
+      "name": "Naiko",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Naiko.png"
+    },
+    {
+      "name": "To2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/To2.png"
+    },
+    {
+      "name": "Bitz",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Bitz.png"
+    },
+    {
+      "name": "Yep",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Yep.png"
     },
     {
       "name": "Maying",
@@ -272,263 +352,183 @@
     },
     {
       "name": "MESL",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/MESL.png"
-    },
-    {
-      "name": "MESL",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/MESL.png"
     },
     {
-      "name": "MESL_Classic",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/MESL_Classic.png"
+      "name": "Facmata",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Facmata.png"
     },
     {
-      "name": "Microsoft",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Microsoft.png"
-    },
-    {
-      "name": "Naiko",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Naiko.png"
-    },
-    {
-      "name": "Nerwo",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Nerwo.png"
-    },
-    {
-      "name": "Netflix",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Netflix.png"
-    },
-    {
-      "name": "Nexitally",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Nexitally.png"
-    },
-    {
-      "name": "Nexitally",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Nexitally.png"
-    },
-    {
-      "name": "Nexitally_Classic",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Nexitally_Classic.png"
-    },
-    {
-      "name": "NieR",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/NieR.png"
-    },
-    {
-      "name": "OUO",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/OUO.png"
-    },
-    {
-      "name": "PaoFu",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/PaoFu.png"
-    },
-    {
-      "name": "PBS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/PBS.png"
-    },
-    {
-      "name": "pt",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/pt.png"
-    },
-    {
-      "name": "QuantumultX",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/QuantumultX.png"
-    },
-    {
-      "name": "Recmata",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Recmata.png"
-    },
-    {
-      "name": "RenZhe",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/RenZhe.png"
-    },
-    {
-      "name": "Rocket",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Rocket.png"
-    },
-    {
-      "name": "S",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/S.png"
-    },
-    {
-      "name": "SeSe",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SeSe.png"
-    },
-    {
-      "name": "Shadowrocket",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Shadowrocket.png"
-    },
-    {
-      "name": "ShouHou",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ShouHou.png"
-    },
-    {
-      "name": "SiFangCai",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SiFangCai.png"
-    },
-    {
-      "name": "Singapore",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Singapore.png"
-    },
-    {
-      "name": "Smart",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Smart.png"
-    },
-    {
-      "name": "Speedtest",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Speedtest.png"
-    },
-    {
-      "name": "Spotify",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Spotify.png"
-    },
-    {
-      "name": "Stash",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Stash.png"
-    },
-    {
-      "name": "Static",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Static.png"
-    },
-    {
-      "name": "SuanNai",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SuanNai.png"
-    },
-    {
-      "name": "Surfboard",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Surfboard.png"
-    },
-    {
-      "name": "Surge",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Surge.png"
-    },
-    {
-      "name": "SWIFT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SWIFT.png"
-    },
-    {
-      "name": "Switch",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Switch.png"
-    },
-    {
-      "name": "SYN",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/SYN.png"
-    },
-    {
-      "name": "TAG",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TAG.png"
-    },
-    {
-      "name": "Telegram",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Telegram.png"
-    },
-    {
-      "name": "Telegrampremium",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Telegrampremium.png"
-    },
-    {
-      "name": "Texon-EY",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Texon-EY.png"
-    },
-    {
-      "name": "Texon-KL",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Texon-KL.png"
-    },
-    {
-      "name": "TikTok",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/TikTok.png"
-    },
-    {
-      "name": "Titan",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Titan.png"
-    },
-    {
-      "name": "TKV",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TKV.png"
-    },
-    {
-      "name": "TKV_X",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/TKV_X.png"
-    },
-    {
-      "name": "To2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/To2.png"
-    },
-    {
-      "name": "Tsunami",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Tsunami.png"
-    },
-    {
-      "name": "tvOS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/tvOS.png"
-    },
-    {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/TW.png"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Twitter.png"
-    },
-    {
-      "name": "UCSS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/UCSS.png"
-    },
-    {
-      "name": "Uni",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Uni.png"
-    },
-    {
-      "name": "United_States",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/United_States.png"
-    },
-    {
-      "name": "V2Ray",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/V2Ray.png"
-    },
-    {
-      "name": "V2Tun",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/V2Tun.png"
+      "name": "IMM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/IMM.png"
     },
     {
       "name": "Warning",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Warning.png"
     },
     {
-      "name": "WestData",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/WestData.png"
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Facebook.png"
     },
     {
-      "name": "Windows",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Windows.png"
+      "name": "Google_Search",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Google_Search.png"
     },
     {
-      "name": "XD",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/XD.png"
+      "name": "Joplin",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Joplin.png"
     },
     {
-      "name": "XianYu",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/XianYu.png"
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Global.png"
     },
     {
-      "name": "XLM",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/XLM.png"
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/TikTok.png"
     },
     {
-      "name": "Yep",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Yep.png"
+      "name": "Linkpng",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Linkpng.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Japan.png"
+    },
+    {
+      "name": "PBS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/PBS.png"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Singapore.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Twitter.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Final.png"
+    },
+    {
+      "name": "Korea",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Korea.png"
+    },
+    {
+      "name": "pt",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/pt.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Emby.png"
+    },
+    {
+      "name": "Bitcloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Bitcloud.png"
+    },
+    {
+      "name": "Telegrampremium",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Telegrampremium.png"
     },
     {
       "name": "youtube",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/youtube.png"
     },
     {
-      "name": "YTOO",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/YTOO.png"
+      "name": "United_States",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/United_States.png"
     },
     {
-      "name": "YTOO",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/YTOO.png"
+      "name": "European_Union",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/European_Union.png"
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/China.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/TW.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Apple.png"
+    },
+    {
+      "name": "XD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/XD.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/ChatGPT.png"
+    },
+    {
+      "name": "Clubhouse",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Clubhouse.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Spotify.png"
+    },
+    {
+      "name": "Rocket",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Rocket.png"
+    },
+    {
+      "name": "Switch",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Switch.png"
+    },
+    {
+      "name": "Static",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Static.png"
+    },
+    {
+      "name": "China 2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/China 2.png"
+    },
+    {
+      "name": "ip",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/ip.png"
+    },
+    {
+      "name": "Hong_Kong",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Hong_Kong.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Telegram.png"
+    },
+    {
+      "name": "Apple_News",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Apple_News.png"
+    },
+    {
+      "name": "disney",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/disney.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Microsoft.png"
+    },
+    {
+      "name": "Github",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Github.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/HBO.png"
+    },
+    {
+      "name": "AppStore",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/AppStore.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Speedtest.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Agent/Netflix.png"
     }
   ]
 }
