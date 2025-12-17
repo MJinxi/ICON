@@ -1,0 +1,194 @@
+{
+  "name": "Cloud-Store",
+  "description": "适用于Cloud-Store的云厂商图标库",
+  "icons": [
+    {
+      "name": "ALIYUN",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Aliyun.png"
+    },
+    {
+      "name": "ALPHAVPS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Alphavps.png"
+    },
+    {
+      "name": "BANDWAGON",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Bandwagon.png"
+    },
+    {
+      "name": "BUYVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/BuyVM.png"
+    },
+    {
+      "name": "BYTEVIRT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ByteVirt.png"
+    },
+    {
+      "name": "CLAW",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Claw.png"
+    },
+    {
+      "name": "CLOUDCONE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/CloudCone.png"
+    },
+    {
+      "name": "CLOUDFLARE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/CloudFlare.png"
+    },
+    {
+      "name": "COLOCROSSING",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ColoCrosSing.png"
+    },
+    {
+      "name": "CRUNCHBITS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Crunchbits.png"
+    },
+    {
+      "name": "DMIT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/DMIT.png"
+    },
+    {
+      "name": "GOOGLECLOUD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/GoogleCloud.png"
+    },
+    {
+      "name": "GREENCLOUD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Greencloud.png"
+    },
+    {
+      "name": "HENGHOST",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Henghost.png"
+    },
+    {
+      "name": "HOST-C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Host-C.png"
+    },
+    {
+      "name": "HOSTHATCH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Hosthatch.png"
+    },
+    {
+      "name": "HUAWEI",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Huawei.png"
+    },
+    {
+      "name": "ISIF",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ISIF.png"
+    },
+    {
+      "name": "KURUN",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Kurun.png"
+    },
+    {
+      "name": "LAYER",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Layer.png"
+    },
+    {
+      "name": "LOCVPS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Locvps.png"
+    },
+    {
+      "name": "OVH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/OVH.png"
+    },
+    {
+      "name": "ONLINE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Online.png"
+    },
+    {
+      "name": "ORACLE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Oracle.png"
+    },
+    {
+      "name": "RACKNERD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/RackNerd.png"
+    },
+    {
+      "name": "SMBOX",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/SMbox.png"
+    },
+    {
+      "name": "SALTYFISH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Saltyfish.png"
+    },
+    {
+      "name": "SPARTAN",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Spartan.png"
+    },
+    {
+      "name": "TENCENT_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_A.png"
+    },
+    {
+      "name": "TENCENT_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Tencent_B.png"
+    },
+    {
+      "name": "V-PS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/V-PS.png"
+    },
+    {
+      "name": "WAP",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WAP.png"
+    },
+    {
+      "name": "WAWO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Wawo.png"
+    },
+    {
+      "name": "WEPC",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WePC.png"
+    },
+    {
+      "name": "YXVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YXVM.png"
+    },
+    {
+      "name": "YECAOYUN",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YeCaoyun.png"
+    },
+    {
+      "name": "ACCK",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png"
+    },
+    {
+      "name": "AKILE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/akile.png"
+    },
+    {
+      "name": "ALICE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png"
+    },
+    {
+      "name": "COALCLOUD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/coalcloud.png"
+    },
+    {
+      "name": "GGY",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ggy.png"
+    },
+    {
+      "name": "HERZNER",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/herzner.png"
+    },
+    {
+      "name": "NETCUP",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/netcup.png"
+    },
+    {
+      "name": "NOMAO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/nomao.png"
+    },
+    {
+      "name": "SERV00",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/serv00.png"
+    },
+    {
+      "name": "SZHDY",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/szhdy.png"
+    },
+    {
+      "name": "VKVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/vkvm.png"
+    }
+  ]
+}

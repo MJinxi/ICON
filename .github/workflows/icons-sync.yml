@@ -1,0 +1,47 @@
+name: Icons JSON Sync
+on:
+  push:
+    paths:
+      - 'icons/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Generate JSON files from icons/
+      run: |
+        set -euo pipefail
+        mkdir -p JSON
+        for dir in icons/*; do
+          [ -d "$dir" ] || continue
+          folder=$(basename "$dir")
+          outfile="JSON/${folder}.json"
+          # create base JSON
+          echo "{\"name\": \"${folder}\", \"description\": \"适用于${folder}的图标库\", \"icons\": []}" > "$outfile"
+          for icon in "$dir"/*; do
+            [ -f "$icon" ] || continue
+            # 只处理常见的图片扩展名，忽略其他文件
+            ext="${icon##*.}"
+            case "${ext,,}" in
+              png|jpg|jpeg|svg|ico) ;;
+              *) continue ;;
+            esac
+            base=$(basename "$icon")
+            iconName="${base%.*}"
+            url="https://raw.githubusercontent.com/MJinxi/ICON/main/$icon"
+            jq --arg iconName "$iconName" --arg url "$url" '.icons += [{"name": $iconName, "url": $url}]' "$outfile" > tmp.json && mv tmp.json "$outfile"
+          done
+        done
+
+    - name: Commit JSON updates
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add JSON/*.json
+        git diff --staged --quiet || git commit -m "Update icons JSON files"
+        git push

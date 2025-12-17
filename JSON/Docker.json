@@ -1,0 +1,514 @@
+{
+  "name": "Docker",
+  "description": "适用于Docker的容器图标库",
+  "icons": [
+    {
+      "name": "AdguardHome_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/AdguardHome_A.png"
+    },
+    {
+      "name": "AdguardHome_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/AdguardHome_B.png"
+    },
+    {
+      "name": "Alist_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Alist_A.png"
+    },
+    {
+      "name": "Alist_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Alist_B.png"
+    },
+    {
+      "name": "Alist_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Alist_C.png"
+    },
+    {
+      "name": "Apache",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Apache.png"
+    },
+    {
+      "name": "AutoLady",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/AutoLady.jpg"
+    },
+    {
+      "name": "Bark",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Bark.png"
+    },
+    {
+      "name": "Bitwarden_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Bitwarden_A.png"
+    },
+    {
+      "name": "Bitwarden_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Bitwarden_B.png"
+    },
+    {
+      "name": "Bitwarden_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Bitwarden_C.png"
+    },
+    {
+      "name": "Chrome",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Chrome.png"
+    },
+    {
+      "name": "CloudDrive_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/CloudDrive_A.png"
+    },
+    {
+      "name": "CloudDrive_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/CloudDrive_B.png"
+    },
+    {
+      "name": "CloudSaver",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/CloudSaver.png"
+    },
+    {
+      "name": "DDNSTO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DDNSTO.png"
+    },
+    {
+      "name": "DPanel",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DPanel.png"
+    },
+    {
+      "name": "Danmaku",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Danmaku.png"
+    },
+    {
+      "name": "DockerCopilot_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DockerCopilot_A.png"
+    },
+    {
+      "name": "DockerCopilot_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DockerCopilot_B.png"
+    },
+    {
+      "name": "DockerCopilot_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DockerCopilot_C.png"
+    },
+    {
+      "name": "DockerCopilot_D",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/DockerCopilot_D.png"
+    },
+    {
+      "name": "Dockge",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Dockge.png"
+    },
+    {
+      "name": "Dozzle_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Dozzle_A.png"
+    },
+    {
+      "name": "Dozzle_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Dozzle_B.png"
+    },
+    {
+      "name": "Draw",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Draw.png"
+    },
+    {
+      "name": "Emby_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Emby_A.png"
+    },
+    {
+      "name": "Emby_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Emby_B.png"
+    },
+    {
+      "name": "Emby_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Emby_C.png"
+    },
+    {
+      "name": "Emby_D",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Emby_D.png"
+    },
+    {
+      "name": "FileBrowser",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/FileBrowser.png"
+    },
+    {
+      "name": "Flarum",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Flarum.png"
+    },
+    {
+      "name": "Grafana",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Grafana.png"
+    },
+    {
+      "name": "Harvest",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Harvest.png"
+    },
+    {
+      "name": "HomeAssistant",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/HomeAssistant.png"
+    },
+    {
+      "name": "HomePage",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/HomePage.png"
+    },
+    {
+      "name": "IYUU-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/IYUU-2.png"
+    },
+    {
+      "name": "IYUU",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/IYUU.png"
+    },
+    {
+      "name": "Jackett",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Jackett.png"
+    },
+    {
+      "name": "Jellyfin",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Jellyfin.png"
+    },
+    {
+      "name": "KMS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/KMS.png"
+    },
+    {
+      "name": "KodBox",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/KodBox.png"
+    },
+    {
+      "name": "LobeChat",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/LobeChat.png"
+    },
+    {
+      "name": "LogVar",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/LogVar.jpeg"
+    },
+    {
+      "name": "Lucky",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Lucky.png"
+    },
+    {
+      "name": "Lychee",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Lychee.png"
+    },
+    {
+      "name": "MT-Photos",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MT-Photos.png"
+    },
+    {
+      "name": "MariaDB",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MariaDB.png"
+    },
+    {
+      "name": "MediaHelp",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MediaHelp.png"
+    },
+    {
+      "name": "MediaSaber_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MediaSaber_A.png"
+    },
+    {
+      "name": "MediaSaber_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MediaSaber_B.png"
+    },
+    {
+      "name": "Memos",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Memos.png"
+    },
+    {
+      "name": "MinIO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MinIO.png"
+    },
+    {
+      "name": "MoviePilot_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MoviePilot_B.png"
+    },
+    {
+      "name": "Moviepilot_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Moviepilot_A.png"
+    },
+    {
+      "name": "MySQL",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/MySQL.png"
+    },
+    {
+      "name": "NAStool-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/NAStool-2.png"
+    },
+    {
+      "name": "NAStool",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/NAStool.png"
+    },
+    {
+      "name": "NPM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/NPM.png"
+    },
+    {
+      "name": "NPS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/NPS.png"
+    },
+    {
+      "name": "Navidrome",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Navidrome.png"
+    },
+    {
+      "name": "NextChat",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/NextChat.png"
+    },
+    {
+      "name": "Nextcloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Nextcloud.png"
+    },
+    {
+      "name": "Nginx-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Nginx-2.png"
+    },
+    {
+      "name": "Nginx",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Nginx.png"
+    },
+    {
+      "name": "Ollama",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Ollama.png"
+    },
+    {
+      "name": "OpenList",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/OpenList.png"
+    },
+    {
+      "name": "OpenWebUI",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/OpenWebUI.png"
+    },
+    {
+      "name": "PHP",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/PHP.png"
+    },
+    {
+      "name": "Plex-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Plex-2.png"
+    },
+    {
+      "name": "Plex",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Plex.png"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/PostgreSQL.png"
+    },
+    {
+      "name": "Python",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Python.png"
+    },
+    {
+      "name": "QD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/QD.png"
+    },
+    {
+      "name": "QingLong",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/QingLong.png"
+    },
+    {
+      "name": "RustDesk",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/RustDesk.png"
+    },
+    {
+      "name": "SiYuan",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SiYuan.png"
+    },
+    {
+      "name": "Sorayomi",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Sorayomi.png"
+    },
+    {
+      "name": "Stirling-PDF",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Stirling-PDF.png"
+    },
+    {
+      "name": "Sun-Panel",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Sun-Panel.png"
+    },
+    {
+      "name": "SunPanel_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_A.png"
+    },
+    {
+      "name": "SunPanel_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_B.png"
+    },
+    {
+      "name": "SunPanel_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_C.png"
+    },
+    {
+      "name": "SunPanel_D",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_D.png"
+    },
+    {
+      "name": "SunPanel_E",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_E.png"
+    },
+    {
+      "name": "SunPanel_F",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/SunPanel_F.png"
+    },
+    {
+      "name": "Tailscale",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Tailscale.png"
+    },
+    {
+      "name": "Transmission_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Transmission_A.png"
+    },
+    {
+      "name": "Transmission_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Transmission_B.png"
+    },
+    {
+      "name": "Typecho",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Typecho.png"
+    },
+    {
+      "name": "UpSnap",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/UpSnap.png"
+    },
+    {
+      "name": "UptimeKuma",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/UptimeKuma.png"
+    },
+    {
+      "name": "UptimeKuma_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/UptimeKuma_B.png"
+    },
+    {
+      "name": "Vaultwarden",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Vaultwarden.png"
+    },
+    {
+      "name": "Vertex",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Vertex.png"
+    },
+    {
+      "name": "Vocechat",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Vocechat.png"
+    },
+    {
+      "name": "Wallos",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Wallos.png"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Wiki.png"
+    },
+    {
+      "name": "Wol",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/Wol.png"
+    },
+    {
+      "name": "WordPress-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/WordPress-2.png"
+    },
+    {
+      "name": "WordPress-3",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/WordPress-3.png"
+    },
+    {
+      "name": "WordPress",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/WordPress.png"
+    },
+    {
+      "name": "XunLei",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/XunLei.png"
+    },
+    {
+      "name": "audiobookshelf",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/audiobookshelf.png"
+    },
+    {
+      "name": "clash_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/clash_A.png"
+    },
+    {
+      "name": "clash_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/clash_B.png"
+    },
+    {
+      "name": "cookiecloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/cookiecloud.png"
+    },
+    {
+      "name": "ddnsgo",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/ddnsgo.png"
+    },
+    {
+      "name": "flare",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/flare.png"
+    },
+    {
+      "name": "frpc",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/frpc.png"
+    },
+    {
+      "name": "ftps",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/ftps.png"
+    },
+    {
+      "name": "halo",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/halo.png"
+    },
+    {
+      "name": "heimdall",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/heimdall.png"
+    },
+    {
+      "name": "helper",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/helper.png"
+    },
+    {
+      "name": "immich_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/immich_A.png"
+    },
+    {
+      "name": "immich_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/immich_B.png"
+    },
+    {
+      "name": "immich_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/immich_C.png"
+    },
+    {
+      "name": "music-tag-web",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/music-tag-web.png"
+    },
+    {
+      "name": "peerbanhelper",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/peerbanhelper.png"
+    },
+    {
+      "name": "phpMyAdmin-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/phpMyAdmin-2.png"
+    },
+    {
+      "name": "phpMyAdmin",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/phpMyAdmin.png"
+    },
+    {
+      "name": "qBittorrent_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/qBittorrent_A.png"
+    },
+    {
+      "name": "qBittorrent_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/qBittorrent_B.png"
+    },
+    {
+      "name": "ssh",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/ssh.png"
+    },
+    {
+      "name": "tachidesk",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/tachidesk.png"
+    },
+    {
+      "name": "v2raya",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/v2raya.png"
+    },
+    {
+      "name": "xiaoya",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Docker/xiaoya.png"
+    }
+  ]
+}

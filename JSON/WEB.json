@@ -1,0 +1,338 @@
+{
+	"name": "WEB",
+	"description": "适用于WEB的网页图标库",
+	"icons": [
+		{
+			"name": "115-2",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115-2.png"
+		},
+		{
+			"name": "115",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115.png"
+		},
+		{
+			"name": "123",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/123.png"
+		},
+		{
+			"name": "22tool",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/22tool.png"
+		},
+		{
+			"name": "4k",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/4k.png"
+		},
+		{
+			"name": "52pojie",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/52pojie.png"
+		},
+		{
+			"name": "AI-Studio",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/AI-Studio.png"
+		},
+		{
+			"name": "AutoBangumi",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/AutoBangumi.png"
+		},
+		{
+			"name": "Backblaze",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Backblaze.png"
+		},
+		{
+			"name": "Bangumi",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Bangumi.png"
+		},
+		{
+			"name": "Base64",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Base64.png"
+		},
+		{
+			"name": "BiliBili",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/BiliBili.png"
+		},
+		{
+			"name": "Bililive-go",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Bililive-go.png"
+		},
+		{
+			"name": "ChatGPT-2",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/ChatGPT-2.png"
+		},
+		{
+			"name": "ChatGPT",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/ChatGPT.png"
+		},
+		{
+			"name": "CloudFlare",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/CloudFlare.png"
+		},
+		{
+			"name": "Copyleaks",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Copyleaks.png"
+		},
+		{
+			"name": "Creativefabrica",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Creativefabrica.png"
+		},
+		{
+			"name": "DeepSeek",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/DeepSeek.png"
+		},
+		{
+			"name": "DockerApps",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/DockerApps.png"
+		},
+		{
+			"name": "Docker_A",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Docker_A.png"
+		},
+		{
+			"name": "Docker_B",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Docker_B.png"
+		},
+		{
+			"name": "Follow",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Follow.png"
+		},
+		{
+			"name": "Gemini",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Gemini.png"
+		},
+		{
+			"name": "GitHub_A",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/GitHub_A.png"
+		},
+		{
+			"name": "GitHub_B",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/GitHub_B.png"
+		},
+		{
+			"name": "GitHub_C",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/GitHub_C.png"
+		},
+		{
+			"name": "GitHub_D",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/GitHub_D.png"
+		},
+		{
+			"name": "Gmail",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Gmail.png"
+		},
+		{
+			"name": "Google",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Google.png"
+		},
+		{
+			"name": "GoogleSearch",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/GoogleSearch.png"
+		},
+		{
+			"name": "Grok",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Grok.png"
+		},
+		{
+			"name": "HKVPS",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/HKVPS.png"
+		},
+		{
+			"name": "Hanxiaoquan",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Hanxiaoquan.png"
+		},
+		{
+			"name": "Hostloc",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Hostloc.png"
+		},
+		{
+			"name": "JPNG",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/JPNG.png"
+		},
+		{
+			"name": "KoolCenter",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/KoolCenter.png"
+		},
+		{
+			"name": "MakerWorld",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/MakerWorld.png"
+		},
+		{
+			"name": "MasterGo",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/MasterGo.png"
+		},
+		{
+			"name": "Myicon",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Myicon.png"
+		},
+		{
+			"name": "NG",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/NG.png"
+		},
+		{
+			"name": "Nazhumi",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Nazhumi.png"
+		},
+		{
+			"name": "Nezha",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Nezha.png"
+		},
+		{
+			"name": "NodeSeek",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/NodeSeek.png"
+		},
+		{
+			"name": "Notion",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Notion.png"
+		},
+		{
+			"name": "PING",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/PING.png"
+		},
+		{
+			"name": "Pexels",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Pexels.png"
+		},
+		{
+			"name": "Pinterest",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Pinterest.png"
+		},
+		{
+			"name": "README",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/README.png"
+		},
+		{
+			"name": "SiliconFlow",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/SiliconFlow.png"
+		},
+		{
+			"name": "Synophotos_A",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Synophotos_A.png"
+		},
+		{
+			"name": "Telegram",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Telegram.png"
+		},
+		{
+			"name": "URL",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/URL.png"
+		},
+		{
+			"name": "VueTorrent",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/VueTorrent.png"
+		},
+		{
+			"name": "Wallhaven",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Wallhaven.png"
+		},
+		{
+			"name": "Wechat_A",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Wechat_A.png"
+		},
+		{
+			"name": "Wechat_B",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Wechat_B.png"
+		},
+		{
+			"name": "Wechat_C",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Wechat_C.png"
+		},
+		{
+			"name": "XiaoGe",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/XiaoGe.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/YouTube.png"
+		},
+		{
+			"name": "dobt",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/dobt.png"
+		},
+		{
+			"name": "duanju",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/duanju.png"
+		},
+		{
+			"name": "favicon",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.ico"
+		},
+		{
+			"name": "favicon",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.png"
+		},
+		{
+			"name": "feibu",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/feibu.png"
+		},
+		{
+			"name": "flowus",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/flowus.png"
+		},
+		{
+			"name": "hicane",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/hicane.png"
+		},
+		{
+			"name": "huanhq",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/huanhq.png"
+		},
+		{
+			"name": "itdog",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/itdog.png"
+		},
+		{
+			"name": "kaohe",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/kaohe.png"
+		},
+		{
+			"name": "keba",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/keba.png"
+		},
+		{
+			"name": "lily",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/lily.png"
+		},
+		{
+			"name": "qianfeng",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/qianfeng.png"
+		},
+		{
+			"name": "randompic",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/randompic.png"
+		},
+		{
+			"name": "right",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/right.png"
+		},
+		{
+			"name": "su1xiao",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/su1xiao.png"
+		},
+		{
+			"name": "tmdb",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/tmdb.png"
+		},
+		{
+			"name": "volcengine",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/volcengine.png"
+		},
+		{
+			"name": "vscode",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/vscode.png"
+		},
+		{
+			"name": "wpfx8",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/wpfx8.png"
+		},
+		{
+			"name": "xg-icons",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/xg-icons.png"
+		},
+		{
+			"name": "xianzhi",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/xianzhi.png"
+		},
+		{
+			"name": "栗次元",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/栗次元.png"
+		}
+	]
+}
