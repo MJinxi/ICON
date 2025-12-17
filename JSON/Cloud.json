@@ -1,7 +1,19 @@
 {
   "name": "Cloud",
-  "description": "适用于Cloud的图标库",
+  "description": "适用于Cloud的应用图标库",
   "icons": [
+    {
+      "name": "acck",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png"
+    },
+    {
+      "name": "akile",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/akile.png"
+    },
+    {
+      "name": "alice",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png"
+    },
     {
       "name": "Aliyun",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Aliyun.png"
@@ -35,6 +47,10 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/CloudFlare.png"
     },
     {
+      "name": "coalcloud",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/coalcloud.png"
+    },
+    {
       "name": "ColoCrosSing",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ColoCrosSing.png"
     },
@@ -47,6 +63,10 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/DMIT.png"
     },
     {
+      "name": "ggy",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ggy.png"
+    },
+    {
       "name": "GoogleCloud",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/GoogleCloud.png"
     },
@@ -57,6 +77,10 @@
     {
       "name": "Henghost",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Henghost.png"
+    },
+    {
+      "name": "herzner",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/herzner.png"
     },
     {
       "name": "Host-C",
@@ -87,8 +111,12 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Locvps.png"
     },
     {
-      "name": "OVH",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/OVH.png"
+      "name": "netcup",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/netcup.png"
+    },
+    {
+      "name": "nomao",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/nomao.png"
     },
     {
       "name": "Online",
@@ -99,20 +127,32 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Oracle.png"
     },
     {
-      "name": "RackNerd",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/RackNerd.png"
+      "name": "OVH",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/OVH.png"
     },
     {
-      "name": "SMbox",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/SMbox.png"
+      "name": "RackNerd",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/RackNerd.png"
     },
     {
       "name": "Saltyfish",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Saltyfish.png"
     },
     {
+      "name": "serv00",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/serv00.png"
+    },
+    {
+      "name": "SMbox",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/SMbox.png"
+    },
+    {
       "name": "Spartan",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Spartan.png"
+    },
+    {
+      "name": "szhdy",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/szhdy.png"
     },
     {
       "name": "Tencent_A",
@@ -127,6 +167,10 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/V-PS.png"
     },
     {
+      "name": "vkvm",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/vkvm.png"
+    },
+    {
       "name": "WAP",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WAP.png"
     },
@@ -139,56 +183,12 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/WePC.png"
     },
     {
-      "name": "YXVM",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YXVM.png"
-    },
-    {
       "name": "YeCaoyun",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YeCaoyun.png"
     },
     {
-      "name": "acck",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png"
-    },
-    {
-      "name": "akile",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/akile.png"
-    },
-    {
-      "name": "alice",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png"
-    },
-    {
-      "name": "coalcloud",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/coalcloud.png"
-    },
-    {
-      "name": "ggy",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/ggy.png"
-    },
-    {
-      "name": "herzner",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/herzner.png"
-    },
-    {
-      "name": "netcup",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/netcup.png"
-    },
-    {
-      "name": "nomao",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/nomao.png"
-    },
-    {
-      "name": "serv00",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/serv00.png"
-    },
-    {
-      "name": "szhdy",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/szhdy.png"
-    },
-    {
-      "name": "vkvm",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/vkvm.png"
+      "name": "YXVM",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/YXVM.png"
     }
   ]
 }

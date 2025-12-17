@@ -1,7 +1,11 @@
 {
   "name": "NAS",
-  "description": "适用于NAS的图标库",
+  "description": "适用于NAS的应用图标库",
   "icons": [
+    {
+      "name": "1panel",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel.png"
+    },
     {
       "name": "1panel-2",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel-2.png"
@@ -9,10 +13,6 @@
     {
       "name": "1panel-Pro",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel-Pro.png"
-    },
-    {
-      "name": "1panel",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel.png"
     },
     {
       "name": "Alpine",
@@ -27,12 +27,12 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Asustor.png"
     },
     {
-      "name": "BT-2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/BT-2.png"
-    },
-    {
       "name": "BT",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/BT.png"
+    },
+    {
+      "name": "BT-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/BT-2.png"
     },
     {
       "name": "CasaOS",
@@ -43,16 +43,36 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/CentOS.png"
     },
     {
-      "name": "Debian-2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Debian-2.png"
-    },
-    {
       "name": "Debian",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Debian.png"
     },
     {
+      "name": "Debian-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Debian-2.png"
+    },
+    {
       "name": "ESXI",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/ESXI.png"
+    },
+    {
+      "name": "fnOS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/fnOS.png"
+    },
+    {
+      "name": "iKuai_A",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_A.png"
+    },
+    {
+      "name": "iKuai_B",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_B.png"
+    },
+    {
+      "name": "iKuai_C",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_C.png"
+    },
+    {
+      "name": "iStoreOS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iStoreOS.png"
     },
     {
       "name": "Linkease",
@@ -115,12 +135,20 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/TrueNAS.png"
     },
     {
-      "name": "UGOS-PRO",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UGOS-PRO.png"
+      "name": "Ubuntu",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Ubuntu.png"
     },
     {
       "name": "UGOS",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UGOS.png"
+    },
+    {
+      "name": "UGOS-PRO",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UGOS-PRO.png"
+    },
+    {
+      "name": "UNRAID",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UNRAID.png"
     },
     {
       "name": "UNRAID-2",
@@ -131,20 +159,8 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UNRAID-3.png"
     },
     {
-      "name": "UNRAID",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/UNRAID.png"
-    },
-    {
-      "name": "Ubuntu",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Ubuntu.png"
-    },
-    {
       "name": "Vmware",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Vmware.png"
-    },
-    {
-      "name": "WinServer",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/WinServer.png"
     },
     {
       "name": "Windows10",
@@ -159,8 +175,8 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Windows7.png"
     },
     {
-      "name": "ZTE",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/ZTE.png"
+      "name": "WinServer",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/WinServer.png"
     },
     {
       "name": "ZimaOS",
@@ -171,24 +187,8 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/Zspace.png"
     },
     {
-      "name": "fnOS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/fnOS.png"
-    },
-    {
-      "name": "iKuai_A",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_A.png"
-    },
-    {
-      "name": "iKuai_B",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_B.png"
-    },
-    {
-      "name": "iKuai_C",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iKuai_C.png"
-    },
-    {
-      "name": "iStoreOS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/iStoreOS.png"
+      "name": "ZTE",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/ZTE.png"
     }
   ]
 }

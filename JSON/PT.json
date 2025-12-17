@@ -1,6 +1,6 @@
 {
   "name": "PT",
-  "description": "适用于PT的图标库",
+  "description": "适用于PT的应用图标库",
   "icons": [
     {
       "name": "0ff",
@@ -31,12 +31,28 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/AFun.png"
     },
     {
-      "name": "ASMR",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/ASMR.png"
+      "name": "agsvpt",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/agsvpt.png"
+    },
+    {
+      "name": "aling",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/aling.png"
     },
     {
       "name": "Animelovers",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Animelovers.png"
+    },
+    {
+      "name": "ASMR",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/ASMR.png"
+    },
+    {
+      "name": "bitporn",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/bitporn.png"
+    },
+    {
+      "name": "btschool",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/btschool.png"
     },
     {
       "name": "Car PT",
@@ -47,12 +63,28 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/CarPT.png"
     },
     {
+      "name": "cd2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cd2.png"
+    },
+    {
+      "name": "cdfile",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cdfile.png"
+    },
+    {
+      "name": "cnlang",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cnlang.png"
+    },
+    {
       "name": "CrabPT",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/CrabPT.png"
     },
     {
       "name": "Darkland",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Darkland.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/emby.png"
     },
     {
       "name": "EMP",
@@ -71,6 +103,10 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/GGPTCOM.png"
     },
     {
+      "name": "gpw",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/gpw.png"
+    },
+    {
       "name": "GTK",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/GTK.png"
     },
@@ -83,152 +119,16 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/HDBao.png"
     },
     {
-      "name": "HDSpace",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/HDSpace.png"
-    },
-    {
-      "name": "JPOP",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/JPOP.png"
-    },
-    {
-      "name": "KamePT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/KamePT.png"
-    },
-    {
-      "name": "Long",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Long.png"
-    },
-    {
-      "name": "LuckPT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/LuckPT.png"
-    },
-    {
-      "name": "MTeam",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/MTeam.png"
-    },
-    {
-      "name": "MuXueGe",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/MuXueGe.png"
-    },
-    {
-      "name": "NJTUPT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/NJTUPT.png"
-    },
-    {
-      "name": "NovaHD",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/NovaHD.png"
-    },
-    {
-      "name": "OpenCD",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/OpenCD.png"
-    },
-    {
-      "name": "PlayLet",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/PlayLet.png"
-    },
-    {
-      "name": "Ptskit",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Ptskit.png"
-    },
-    {
-      "name": "QingWa",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/QingWa.png"
-    },
-    {
-      "name": "SBPT",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/SBPT.png"
-    },
-    {
-      "name": "Shareiland",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Shareiland.png"
-    },
-    {
-      "name": "Sunny",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Sunny.png"
-    },
-    {
-      "name": "TCCF",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TCCF.png"
-    },
-    {
-      "name": "TMDB",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TMDB.png"
-    },
-    {
-      "name": "TTG",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TTG.png"
-    },
-    {
-      "name": "TU88",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TU88.png"
-    },
-    {
-      "name": "TorrentHub",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TorrentHub.png"
-    },
-    {
-      "name": "TorrentLeech",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TorrentLeech.png"
-    },
-    {
-      "name": "U2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/U2.png"
-    },
-    {
-      "name": "Ubits",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Ubits.png"
-    },
-    {
-      "name": "UltraHD",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/UltraHD.png"
-    },
-    {
-      "name": "YOINKED",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/YOINKED.png"
-    },
-    {
-      "name": "agsvpt",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/agsvpt.png"
-    },
-    {
-      "name": "aling",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/aling.png"
-    },
-    {
-      "name": "bitporn",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/bitporn.png"
-    },
-    {
-      "name": "btschool",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/btschool.png"
-    },
-    {
-      "name": "cd2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cd2.png"
-    },
-    {
-      "name": "cdfile",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cdfile.png"
-    },
-    {
-      "name": "cnlang",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/cnlang.png"
-    },
-    {
-      "name": "emby",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/emby.png"
-    },
-    {
-      "name": "gpw",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/gpw.png"
-    },
-    {
       "name": "hdcity",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/hdcity.png"
     },
     {
       "name": "hddolby",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/hddolby.png"
+    },
+    {
+      "name": "HDSpace",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/HDSpace.png"
     },
     {
       "name": "ilolicon",
@@ -259,16 +159,56 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/joyhd.png"
     },
     {
+      "name": "JPOP",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/JPOP.png"
+    },
+    {
+      "name": "KamePT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/KamePT.png"
+    },
+    {
+      "name": "Long",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Long.png"
+    },
+    {
+      "name": "LuckPT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/LuckPT.png"
+    },
+    {
       "name": "moviepilot",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/moviepilot.png"
+    },
+    {
+      "name": "MTeam",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/MTeam.png"
+    },
+    {
+      "name": "MuXueGe",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/MuXueGe.png"
     },
     {
       "name": "nanyang",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/nanyang.png"
     },
     {
+      "name": "NJTUPT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/NJTUPT.png"
+    },
+    {
+      "name": "NovaHD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/NovaHD.png"
+    },
+    {
+      "name": "OpenCD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/OpenCD.png"
+    },
+    {
       "name": "openwrt",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/openwrt.png"
+    },
+    {
+      "name": "PlayLet",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/PlayLet.png"
     },
     {
       "name": "pter",
@@ -287,6 +227,10 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/ptlgs.png"
     },
     {
+      "name": "Ptskit",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Ptskit.png"
+    },
+    {
       "name": "ptzone",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/ptzone.png"
     },
@@ -295,24 +239,76 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/qbittorrent.png"
     },
     {
+      "name": "QingWa",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/QingWa.png"
+    },
+    {
       "name": "rain",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/rain.png"
+    },
+    {
+      "name": "SBPT",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/SBPT.png"
+    },
+    {
+      "name": "Shareiland",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Shareiland.png"
     },
     {
       "name": "ssd",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/ssd.png"
     },
     {
+      "name": "Sunny",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Sunny.png"
+    },
+    {
       "name": "synology",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/synology.png"
+    },
+    {
+      "name": "TCCF",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TCCF.png"
     },
     {
       "name": "tjupt",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/tjupt.png"
     },
     {
+      "name": "TMDB",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TMDB.png"
+    },
+    {
+      "name": "TorrentHub",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TorrentHub.png"
+    },
+    {
+      "name": "TorrentLeech",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TorrentLeech.png"
+    },
+    {
       "name": "transmission",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/transmission.png"
+    },
+    {
+      "name": "TTG",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TTG.png"
+    },
+    {
+      "name": "TU88",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/TU88.png"
+    },
+    {
+      "name": "U2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/U2.png"
+    },
+    {
+      "name": "Ubits",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/Ubits.png"
+    },
+    {
+      "name": "UltraHD",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/UltraHD.png"
     },
     {
       "name": "unifi",
@@ -325,6 +321,10 @@
     {
       "name": "yacd",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/yacd.png"
+    },
+    {
+      "name": "YOINKED",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/PT/YOINKED.png"
     },
     {
       "name": "三月传媒",

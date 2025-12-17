@@ -1,14 +1,14 @@
 {
   "name": "WEB",
-  "description": "适用于WEB的图标库",
+  "description": "适用于WEB的应用图标库",
   "icons": [
-    {
-      "name": "115-2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115-2.png"
-    },
     {
       "name": "115",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115.png"
+    },
+    {
+      "name": "115-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115-2.png"
     },
     {
       "name": "123",
@@ -55,12 +55,12 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Bililive-go.png"
     },
     {
-      "name": "ChatGPT-2",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/ChatGPT-2.png"
-    },
-    {
       "name": "ChatGPT",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/ChatGPT.png"
+    },
+    {
+      "name": "ChatGPT-2",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/ChatGPT-2.png"
     },
     {
       "name": "CloudFlare",
@@ -79,8 +79,8 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/DeepSeek.png"
     },
     {
-      "name": "DockerApps",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/DockerApps.png"
+      "name": "dobt",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/dobt.png"
     },
     {
       "name": "Docker_A",
@@ -89,6 +89,30 @@
     {
       "name": "Docker_B",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Docker_B.png"
+    },
+    {
+      "name": "DockerApps",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/DockerApps.png"
+    },
+    {
+      "name": "duanju",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/duanju.png"
+    },
+    {
+      "name": "favicon",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.ico"
+    },
+    {
+      "name": "favicon",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.png"
+    },
+    {
+      "name": "feibu",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/feibu.png"
+    },
+    {
+      "name": "flowus",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/flowus.png"
     },
     {
       "name": "Follow",
@@ -131,24 +155,52 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Grok.png"
     },
     {
-      "name": "HKVPS",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/HKVPS.png"
-    },
-    {
       "name": "Hanxiaoquan",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Hanxiaoquan.png"
+    },
+    {
+      "name": "hicane",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/hicane.png"
+    },
+    {
+      "name": "HKVPS",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/HKVPS.png"
     },
     {
       "name": "Hostloc",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Hostloc.png"
     },
     {
+      "name": "huanhq",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/huanhq.png"
+    },
+    {
+      "name": "itdog",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/itdog.png"
+    },
+    {
       "name": "JPNG",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/JPNG.png"
     },
     {
+      "name": "kaohe",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/kaohe.png"
+    },
+    {
+      "name": "keba",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/keba.png"
+    },
+    {
       "name": "KoolCenter",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/KoolCenter.png"
+    },
+    {
+      "name": "lily",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/lily.ico"
+    },
+    {
+      "name": "lily",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/lily.png"
     },
     {
       "name": "MakerWorld",
@@ -163,16 +215,16 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Myicon.png"
     },
     {
-      "name": "NG",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/NG.png"
-    },
-    {
       "name": "Nazhumi",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Nazhumi.png"
     },
     {
       "name": "Nezha",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Nezha.png"
+    },
+    {
+      "name": "NG",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/NG.png"
     },
     {
       "name": "NodeSeek",
@@ -183,24 +235,40 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Notion.png"
     },
     {
-      "name": "PING",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/PING.png"
-    },
-    {
       "name": "Pexels",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Pexels.png"
+    },
+    {
+      "name": "PING",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/PING.png"
     },
     {
       "name": "Pinterest",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Pinterest.png"
     },
     {
+      "name": "qianfeng",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/qianfeng.png"
+    },
+    {
+      "name": "randompic",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/randompic.png"
+    },
+    {
       "name": "README",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/README.png"
     },
     {
+      "name": "right",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/right.png"
+    },
+    {
       "name": "SiliconFlow",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/SiliconFlow.png"
+    },
+    {
+      "name": "su1xiao",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/su1xiao.png"
     },
     {
       "name": "Synophotos_A",
@@ -211,8 +279,20 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Telegram.png"
     },
     {
+      "name": "tmdb",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/tmdb.png"
+    },
+    {
       "name": "URL",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/URL.png"
+    },
+    {
+      "name": "volcengine",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/volcengine.png"
+    },
+    {
+      "name": "vscode",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/vscode.png"
     },
     {
       "name": "VueTorrent",
@@ -235,94 +315,6 @@
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/Wechat_C.png"
     },
     {
-      "name": "XiaoGe",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/XiaoGe.png"
-    },
-    {
-      "name": "YouTube",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/YouTube.png"
-    },
-    {
-      "name": "dobt",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/dobt.png"
-    },
-    {
-      "name": "duanju",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/duanju.png"
-    },
-    {
-      "name": "favicon",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.ico"
-    },
-    {
-      "name": "favicon",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/favicon.png"
-    },
-    {
-      "name": "feibu",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/feibu.png"
-    },
-    {
-      "name": "flowus",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/flowus.png"
-    },
-    {
-      "name": "hicane",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/hicane.png"
-    },
-    {
-      "name": "huanhq",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/huanhq.png"
-    },
-    {
-      "name": "itdog",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/itdog.png"
-    },
-    {
-      "name": "kaohe",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/kaohe.png"
-    },
-    {
-      "name": "keba",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/keba.png"
-    },
-    {
-      "name": "lily",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/lily.ico"
-    },
-    {
-      "name": "lily",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/lily.png"
-    },
-    {
-      "name": "qianfeng",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/qianfeng.png"
-    },
-    {
-      "name": "randompic",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/randompic.png"
-    },
-    {
-      "name": "right",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/right.png"
-    },
-    {
-      "name": "su1xiao",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/su1xiao.png"
-    },
-    {
-      "name": "tmdb",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/tmdb.png"
-    },
-    {
-      "name": "volcengine",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/volcengine.png"
-    },
-    {
-      "name": "vscode",
-      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/vscode.png"
-    },
-    {
       "name": "wpfx8",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/wpfx8.png"
     },
@@ -333,6 +325,14 @@
     {
       "name": "xianzhi",
       "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/xianzhi.png"
+    },
+    {
+      "name": "XiaoGe",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/XiaoGe.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/YouTube.png"
     },
     {
       "name": "栗次元",
