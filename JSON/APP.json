@@ -1,0 +1,55 @@
+{
+	"name": "APP",
+	"description": "适用于 APP 的应用图标库",
+	"icons": [
+		{
+			"name": "DSCloud",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/DSCloud.png"
+		},
+		{
+			"name": "Forward",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/Forward.png"
+		},
+		{
+			"name": "HamHub",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/HamHub.png"
+		},
+		{
+			"name": "Infuse",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/Infuse.png"
+		},
+		{
+			"name": "Lenna",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/Lenna.png"
+		},
+		{
+			"name": "SenPlayer",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/SenPlayer.png"
+		},
+		{
+			"name": "Temby",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/Temby.png"
+		},
+		{
+			"name": "VidHub",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/VidHub.png"
+		},
+		{
+			"name": "fntv",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/fntv.png"
+		},
+		{
+			"name": "iPlay",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/iPlay.png"
+		},
+		{
+			"name": "yybx",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/yybx.png"
+		},
+		{
+			"name": "网易爆米花",
+			"url": "https://raw.githubusercontent.com/MJinxi/ICON/main/player/bmh163.png"
+		}
+	]
+}
+
