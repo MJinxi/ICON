@@ -12,6 +12,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        # fetch full history so we can safely pull/rebase and push
+        fetch-depth: 0
+        # keep credentials so later git push can use the provided token
+        persist-credentials: true
 
     - name: Generate JSON files from icons/
       run: |
@@ -42,8 +47,27 @@ jobs:
 
     - name: Commit JSON updates
       run: |
+        set -euo pipefail
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add JSON/*.json
-        git diff --staged --quiet || git commit -m "Update icons JSON files"
-        git push
+        git add JSON/*.json || true
+        if git diff --staged --quiet; then
+          echo "No JSON changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Update icons JSON files"
+
+        # determine branch name (e.g., refs/heads/main -> main)
+        branch="${GITHUB_REF#refs/heads/}"
+
+        # fetch latest remote branch and rebase to avoid non-fast-forward errors
+        git fetch origin "$branch"
+        git rebase "origin/$branch" || {
+          echo "Rebase failed, attempting to abort and merge instead"
+          git rebase --abort || true
+          git pull --no-rebase --no-edit origin "$branch"
+        }
+
+        # push changes
+        git push origin "HEAD:$branch"
