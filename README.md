@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 
 
 
+
 ## 🎭 图标预览
 <div align="center">
 
@@ -90,20 +91,20 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 			<tr>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Aliyun.png" alt="Aliyun" width="72">
-						<figcaption>Aliyun</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/acck.png" alt="acck" width="72">
+						<figcaption>acck</figcaption>
 					</figure>
 				</td>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Alphavps.png" alt="Alphavps" width="72">
-						<figcaption>Alphavps</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/akile.png" alt="akile" width="72">
+						<figcaption>akile</figcaption>
 					</figure>
 				</td>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/Bandwagon.png" alt="Bandwagon" width="72">
-						<figcaption>Bandwagon</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Cloud/alice.png" alt="alice" width="72">
+						<figcaption>alice</figcaption>
 					</figure>
 				</td>
 			</tr>
@@ -142,20 +143,20 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 			<tr>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/ASH.PNG" alt="ASH" width="72">
-						<figcaption>ASH</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ACA.png" alt="ACA" width="72">
+						<figcaption>ACA</figcaption>
 					</figure>
 				</td>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/Kuromis.png" alt="Kuromis" width="72">
-						<figcaption>Kuromis</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Aladdin.png" alt="Aladdin" width="72">
+						<figcaption>Aladdin</figcaption>
 					</figure>
 				</td>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Proxy/MESL_Classic.png" alt="MESL_Classic" width="72">
-						<figcaption>MESL_Classic</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/AMY.png" alt="AMY" width="72">
+						<figcaption>AMY</figcaption>
 					</figure>
 				</td>
 			</tr>
@@ -169,6 +170,12 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 			<tr>
 				<td align="center">
 					<figure>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel.png" alt="1panel" width="72">
+						<figcaption>1panel</figcaption>
+					</figure>
+				</td>
+				<td align="center">
+					<figure>
 						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel-2.png" alt="1panel-2" width="72">
 						<figcaption>1panel-2</figcaption>
 					</figure>
@@ -177,12 +184,6 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 					<figure>
 						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel-Pro.png" alt="1panel-Pro" width="72">
 						<figcaption>1panel-Pro</figcaption>
-					</figure>
-				</td>
-				<td align="center">
-					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/NAS/1panel.png" alt="1panel" width="72">
-						<figcaption>1panel</figcaption>
 					</figure>
 				</td>
 			</tr>
@@ -221,14 +222,14 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 			<tr>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115-2.png" alt="115-2" width="72">
-						<figcaption>115-2</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115.png" alt="115" width="72">
+						<figcaption>115</figcaption>
 					</figure>
 				</td>
 				<td align="center">
 					<figure>
-						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115.png" alt="115" width="72">
-						<figcaption>115</figcaption>
+						<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/WEB/115-2.png" alt="115-2" width="72">
+						<figcaption>115-2</figcaption>
 					</figure>
 				</td>
 				<td align="center">
@@ -244,5 +245,6 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/WEB.json
 </table>
 </div>
 <!-- PREVIEW-END -->
+
 
 
