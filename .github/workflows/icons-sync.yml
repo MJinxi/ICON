@@ -21,9 +21,10 @@ jobs:
           [ -d "$dir" ] || continue
           folder=$(basename "$dir")
           outfile="JSON/${folder}.json"
-          # create base JSON
-          echo "{\"name\": \"${folder}\", \"description\": \"适用于${folder}的图标库\", \"icons\": []}" > "$outfile"
-          for icon in "$dir"/*; do
+          # create base JSON（说明改为“应用图标库”以保持一致）
+          echo "{\"name\": \"${folder}\", \"description\": \"适用于${folder}的应用图标库\", \"icons\": []}" > "$outfile"
+          # 递归查找目录下的图片文件（支持多层目录）并以 NUL 分隔传输文件名以兼容空格
+          while IFS= read -r -d '' icon; do
             [ -f "$icon" ] || continue
             # 只处理常见的图片扩展名，忽略其他文件
             ext="${icon##*.}"
@@ -33,9 +34,10 @@ jobs:
             esac
             base=$(basename "$icon")
             iconName="${base%.*}"
+            # 使用相对仓库路径生成 raw.githubusercontent URL
             url="https://raw.githubusercontent.com/MJinxi/ICON/main/$icon"
             jq --arg iconName "$iconName" --arg url "$url" '.icons += [{"name": $iconName, "url": $url}]' "$outfile" > tmp.json && mv tmp.json "$outfile"
-          done
+          done < <(find "$dir" -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.svg" -o -iname "*.ico" \) -print0)
         done
 
     - name: Commit JSON updates

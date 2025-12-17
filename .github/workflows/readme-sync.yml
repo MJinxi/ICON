@@ -1,0 +1,107 @@
+name: README Sync
+
+on:
+  push:
+    paths:
+      - 'JSON/**'
+      - '.github/workflows/icons-sync.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Generate README snippets from JSON
+      run: |
+        set -euo pipefail
+
+        # 工作目录
+        repo_root="${GITHUB_WORKSPACE:-.}"
+        cd "$repo_root"
+
+        # 生成 JSON 地址列表部分
+        json_block="<!-- JSON-START -->\n"
+
+        # 为了和现有 README 中的中文标签保持一致，定义已知映射
+        map_label() {
+          case "$1" in
+            Mihomo) echo "代理图标库"; return;;
+            APP) echo "软件图标库"; return;;
+            Cloud) echo "云厂商图标库"; return;;
+            Docker) echo "容器图标库"; return;;
+            NAS) echo "云存储图标库"; return;;
+            PT) echo "站点图标库"; return;;
+            WEB) echo "网页图标库"; return;;
+            *) echo "${1}图标库"; return;;
+          esac
+        }
+
+        for f in JSON/*.json; do
+          [ -f "$f" ] || continue
+          name=$(jq -r '.name' "$f" 2>/dev/null || echo "$(basename "$f" .json)")
+          label=$(map_label "$name")
+          url="https://raw.githubusercontent.com/${{ github.repository }}/main/$f"
+          json_block+="- **${label}**\n``\n${url}\n``\n\n"
+        done
+
+        json_block+="<!-- JSON-END -->\n"
+
+        # 生成图标预览片段（每个 JSON 取最多 3 个图标）
+        preview_block="<!-- PREVIEW-START -->\n"
+        preview_block+="<div align=\"center\">\n<table align=\"center\" width=\"100%\">\n"
+
+        # 简单按两列布局输出（每条 JSON 生成一个 <td> 格子内的 mini-table）
+        col=0
+        preview_block+="<tr>\n"
+        for f in JSON/*.json; do
+          [ -f "$f" ] || continue
+          name=$(jq -r '.name' "$f" 2>/dev/null || echo "$(basename "$f" .json)")
+          label=$(map_label "$name")
+          # 取前 3 个 icons 的 url 和 name
+          icons=$(jq -r '.icons[:3][]? | @base64' "$f" || echo "")
+          preview_block+="\t<td align=\"center\" valign=\"top\" width=\"50%\">\n\t\t<h4>${label}</h4>\n\t\t<table>\n\t\t\t<tr>\n"
+          for e in $icons; do
+            dec=$(echo "$e" | base64 --decode)
+            iname=$(echo "$dec" | jq -r '.name')
+            iurl=$(echo "$dec" | jq -r '.url')
+            preview_block+="\t\t\t\t<td align=\"center\">\n\t\t\t\t\t<figure>\n\t\t\t\t\t\t<img src=\"${iurl}\" alt=\"${iname}\" width=\"72\">\n\t\t\t\t\t\t<figcaption>${iname}</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t</td>\n"
+          done
+          preview_block+="\t\t\t</tr>\n\t\t</table>\n\t</td>\n"
+          col=$((col+1))
+          if [ $col -eq 2 ]; then
+            preview_block+="</tr>\n<tr>\n"
+            col=0
+          fi
+        done
+        preview_block+="</tr>\n</table>\n</div>\n<!-- PREVIEW-END -->\n"
+
+        # 将生成的片段写入临时文件
+        tmp_readme="README.md.tmp"
+        echo "Generating README snippets..."
+
+        # 读取当前 README 并替换标记区间
+        awk -v js="$json_block" -v pv="$preview_block" '
+          BEGIN{in_json=0; in_prev=0}
+          /<!-- JSON-START -->/{print js; in_json=1; next}
+          /<!-- JSON-END -->/{in_json=0; next}
+          /<!-- PREVIEW-START -->/{print pv; in_prev=1; next}
+          /<!-- PREVIEW-END -->/{in_prev=0; next}
+          { if(in_json==0 && in_prev==0) print $0 }
+        ' README.md > "$tmp_readme"
+
+        # 移动替换
+        mv "$tmp_readme" README.md
+
+    - name: Commit README updates
+      run: |
+        set -euo pipefail
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git diff --staged --quiet || git commit -m "chore: sync README with JSON files"
+        git push
+      shell: bash

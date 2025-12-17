@@ -11,6 +11,8 @@
 
 ## 📦 **JSON地址**
 
+<!-- JSON-START -->
+
 - **云厂商图标库**
 ```
 https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/Cloud.json
@@ -47,12 +49,20 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/Cloud.json
 ```
 
 
+- **代理图标库**
+```
+ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/Mihomo.json
+```
+
+<!-- JSON-END -->
+
 
 ## 🎭 图标预览
 <div align="center">
 
+<!-- PREVIEW-START -->
 <!-- 使用表格布局以兼容 GitHub README（GitHub 会过滤 <style> 块和部分自定义 CSS），
-		 将图标按多列展示，防止在一行溢出 -->
+			将图标按多列展示，防止在一行溢出 -->
 
 <!-- 分类别显示：每类挑 3 个常见且通常带透明背景的图标（使用 raw.githubusercontent.com 完整路径以保证在 README 上正确加载） -->
 
@@ -215,5 +225,36 @@ https://raw.githubusercontent.com/MJinxi/ICON/main/JSON/Cloud.json
 		</td>
 	</tr>
 </table>
+	<tr>
+		<td align="center" valign="top" width="50%">
+			<h4>代理</h4>
+			<table>
+				<tr>
+					<td align="center">
+						<figure>
+							<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/ClashMeta.png" alt="ClashMeta" width="72">
+							<figcaption>ClashMeta</figcaption>
+						</figure>
+					</td>
+					<td align="center">
+						<figure>
+							<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/QuantumultX.png" alt="QuantumultX" width="72">
+							<figcaption>QuantumultX</figcaption>
+						</figure>
+					</td>
+					<td align="center">
+						<figure>
+							<img src="https://raw.githubusercontent.com/MJinxi/ICON/main/icons/Mihomo/Vendor/Shadowrocket.png" alt="Shadowrocket" width="72">
+							<figcaption>Shadowrocket</figcaption>
+						</figure>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td align="center" valign="top" width="50%">
+			<!-- placeholder for layout balance -->
+		</td>
+	</tr>
 
 </div>
+<!-- PREVIEW-END -->
